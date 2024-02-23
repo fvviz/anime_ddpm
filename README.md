@@ -3,6 +3,10 @@
 
 A Pytorch DDP model trained to generate [Anime faces](https://www.kaggle.com/datasets/splcher/animefacedataset)
 
+
+
+<h3> Training results from various epochs: </h3>
+
 ![github readme imge](https://github.com/fvviz/anime_ddpm/assets/50950705/feefbe23-c861-4b21-8579-89001d8f8456)
 
 <h3> Denoising visualisation</h3>
