@@ -1,7 +1,7 @@
 <h1>Anime DDPM </h1>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-A Pytorch DDP model trained to generate anime faces
+A Pytorch DDP model trained to generate [Anime faces](https://www.kaggle.com/datasets/splcher/animefacedataset)
 
 ![github readme imge](https://github.com/fvviz/anime_ddpm/assets/50950705/feefbe23-c861-4b21-8579-89001d8f8456)
 
