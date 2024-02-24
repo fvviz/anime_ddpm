@@ -22,13 +22,13 @@ https://github.com/fvviz/anime_ddpm/assets/50950705/4042f02f-a5ee-4155-b67c-2b07
 
 <h3> References </h3>
 
-- (DDPM paper)[https://arxiv.org/pdf/2006.11239.pdf]
+- [DDPM paper](https://arxiv.org/pdf/2006.11239.pdf)
 
-- (Improved diffusion)[https://arxiv.org/pdf/2102.09672.pdf]
+- [Improved diffusion](https://arxiv.org/pdf/2102.09672.pdf)
 
-- (Improved diffusion openai codebase)[https://github.com/openai/improved-diffusion]
+- [Improved diffusion openai codebase](https://github.com/openai/improved-diffusion)
 
-- (Dome272's implementation)[https://github.com/dome272/Diffusion-Models-pytorch]
+- [Dome272's implementation](https://github.com/dome272/Diffusion-Models-pytorch)
 
 
 
