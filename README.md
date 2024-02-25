@@ -1,4 +1,4 @@
-<h1>Anime DDPM </h1>
+<h1>Athi DDPM </h1>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 A Pytorch DDP model trained to generate [Anime faces](https://www.kaggle.com/datasets/splcher/animefacedataset)
